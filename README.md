@@ -1,5 +1,6 @@
 <h1>Rock, Paper, Scissors!</h1>
 <h3>Overview</h3><br>
+
 Welcome to the Rock Paper Scissors game! This Java program allows you to play the classic game against the computerin a command-line interface.
 
 <h3>Features</h3>
